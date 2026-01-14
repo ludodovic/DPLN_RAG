@@ -1,6 +1,13 @@
 # Dev ignore
+DofusDB/
 Dungeons/
 Quests/
+Old/
+*.ipynb
+rawData
+markdownData
+config.json
+vectorise_docs.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
